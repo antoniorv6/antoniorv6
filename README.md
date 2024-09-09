@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Antonio. I'm a Dr in Computer Science in the University of Alicante, Spain.<br>I mainly work on deep learning research, specifically for Optical Music Recognition.<br>I like to open-source my projects to share my research (and my failures) to the community.<br>
+Hi! I am Antonio. I'm a Dr in Computer Science working in the Pattern Recognition and Artificial Intelligence Group from the University of Alicante, Spain. I mainly work on deep learning research, specifically for Optical Music Recognition. I like to open-source my projects to share my research (and my failures) to the community. Feel free to use my projects and code, as well as contacting me if you are interested in contributing to my projects or found any bugs.
 
 
 ## 🌐 Socials:
