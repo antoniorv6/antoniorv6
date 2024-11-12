@@ -4,5 +4,7 @@ I'm a Dr in Computer Science working in the Pattern Recognition and Artificial I
 - 🧠 Machine Learning & Data Science
 - 💻 Sometimes web development
 
+You can learn more in my [website](antoniorv6.netlify.app/)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-ríos-vila-3b189312b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anto1481) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ariosvila) 
